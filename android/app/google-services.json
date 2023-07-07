@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "953433633837",
+    "project_id": "workhard-e0759",
+    "storage_bucket": "workhard-e0759.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953433633837:android:4683ec458a2ab59751b4a4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953433633837-vtuvgilbk8hjr2qvse6v7pll1h6uppae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuMixhynVEJWsDCv29T1hAOUdsAkLUbzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953433633837-vtuvgilbk8hjr2qvse6v7pll1h6uppae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
